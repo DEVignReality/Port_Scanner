@@ -7,15 +7,13 @@ Features
   Outputs the status of each port scanned.
   Times the duration of the scan.
 
-Requirements
+Requirements:
 
-  Python 3.x installed on your system.
+Python 3.x installed on your system.
 
-Usage
+Usage:
 
-  Modify the port_scanner.py script to specify the target host by changing HOST_TO_SCAN to the desired IP address or hostname.
-
-  python
+Modify the port_scanner.py script to specify the target host by changing HOST_TO_SCAN to the desired IP address or hostname.
 
 HOST_TO_SCAN = 'your_target_host'  # e.g., '192.168.1.1'
 
